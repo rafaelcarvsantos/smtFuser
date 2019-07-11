@@ -21,5 +21,5 @@ Easily filter through the results
 
 ## Usage
 
-Simply execute smt.exe and then type all the demons' names you want to fuse. Choose the depth of the fusion process: 'one' means just the direct fusions; 'two' means the direct fusions and also their results fusioned back with the original demons; 'three' means the same as two, but also fusing back those new demons with the originals. You can also choose the related Subapps, add more demons or clear all the name inputs at once.
+Simply execute smt.exe and then type all the demons' names you want to fuse. Choose the depth of the fusion process: 'one' means just the direct fusions; 'two' means the direct fusions and also their results fused back with the original demons; 'three' means the same as two, but also fusing back those new demons with the originals. You can also choose the related Subapps, add more demons or clear all the name inputs at once.
 
