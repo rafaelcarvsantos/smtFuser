@@ -27,4 +27,4 @@ Simply execute smt.exe and then type all the demons' names you want to fuse. Cho
 
 ![Alt text](https://i.imgur.com/H0xcMar.png)
 
-![Alt text](https://i.imgur.com/ujcgeXa.png)
+![Alt text](https://i.imgur.com/MectbNU.png)
