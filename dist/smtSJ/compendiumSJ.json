@@ -1419,6 +1419,12 @@
         "Light": "rs ",
         "Dark": "nu ",
         "tribe": "妖魔",
+		"Skill1": "Luster Candy",
+        "Skill2": "Enduring Soul",
+        "Skill3": "",
+        "DS Skill1": "Luster Candy",
+        "DS Skill2": "Enduring Soul",
+        "DS Skill3": "Drain Fire",
         "Alignment": "Law"
     },
     {
@@ -1469,6 +1475,12 @@
         "Light": "wk ",
         "Dark": "nu ",
         "tribe": "妖魔",
+		"Skill1": "Agidyne",
+        "Skill2": "Bufudyne",
+        "Skill3": "-",
+        "DS Skill1": "Maragidyne",
+        "DS Skill2": "Mabufudyne",
+        "DS Skill3": "-",
         "Alignment": "Law"
     },
     {
@@ -1743,6 +1755,12 @@
         "Light": "no ",
         "Dark": "wk ",
         "tribe": "天女",
+		"Skill1": "Frolic",
+        "Skill2": "Diarama",
+        "Skill3": "-",
+        "DS Skill1": "Frolic",
+        "DS Skill2": "Diarama",
+        "DS Skill3": "",
         "Alignment": "Law"
     },
     {
@@ -1793,6 +1811,12 @@
         "Light": "nu ",
         "Dark": "no ",
         "tribe": "天女",
+		"Skill1": "Hellish Spurt",
+        "Skill2": "Mediarama",
+        "Skill3": "Tarukaja",
+        "DS Skill1": "Mediarama",
+        "DS Skill2": "Recovery Amp",
+        "DS Skill3": "Tarukaja",
         "Alignment": "Law"
     },
     {
@@ -1927,6 +1951,12 @@
         "Light": "no ",
         "Dark": "no ",
         "tribe": "邪神",
+		"Skill1": "Maragidyne",
+        "Skill2": "Megidolaon",
+        "Skill3": "Concentrate",
+        "DS Skill1": "Megidolaon",
+        "DS Skill2": "Repel Fire",
+        "DS Skill3": "Concentrate",
         "Alignment": "Law"
     },
     {
@@ -2649,6 +2679,12 @@
         "Light": "nu ",
         "Dark": "nu ",
         "tribe": "魔神",
+		"Skill1": "Keraunos",
+        "Skill2": "Adamant Sickle",
+        "Skill3": "-",
+        "DS Skill1": "Occult Flash",
+        "DS Skill2": "Thunder Reign",
+        "DS Skill3": "Elec Amp",
         "Alignment": "Neutral"
     },
     {
@@ -2923,6 +2959,12 @@
         "Light": "no ",
         "Dark": "no ",
         "tribe": "神獣",
+		"Skill1": "Shibaboo",
+        "Skill2": "Paraladi",
+        "Skill3": "Lunge",
+        "DS Skill1": "Explosive Fist",
+        "DS Skill2": "Charge",
+        "DS Skill3": "-",
         "Alignment": "Neutral"
     },
     {
@@ -3421,6 +3463,12 @@
         "Light": "nu ",
         "Dark": "no ",
         "tribe": "幻魔",
+		"Skill1": "Garula",
+        "Skill2": "Diarama",
+        "Skill3": "Posumudi",
+        "DS Skill1": "Posumudi",
+        "DS Skill2": "Garudyne",
+        "DS Skill3": "-",
         "Alignment": "Neutral"
     },
     {
@@ -4115,6 +4163,12 @@
         "Light": "no ",
         "Dark": "no ",
         "tribe": "地霊",
+		"Skill1": "Zionga",
+        "Skill2": "Sukunda",
+        "Skill3": "Blight",
+        "DS Skill1": "Blight",
+        "DS Skill2": "Dekuna",
+        "DS Skill3": "-",
         "Alignment": "Neutral"
     },
     {
@@ -4305,6 +4359,12 @@
         "Light": "no ",
         "Dark": "no ",
         "tribe": "地霊",
+		"Skill1": "Agi",
+        "Skill2": "Maragi",
+        "Skill3": "-",
+        "DS Skill1": "Resist Fire",
+        "DS Skill2": "-",
+        "DS Skill3": "-",
         "Alignment": "Neutral"
     },
     {
@@ -4355,6 +4415,12 @@
         "Light": "rs ",
         "Dark": "no ",
         "tribe": "竜王",
+		"Skill1": "Maziodyne",
+        "Skill2": "Acid Breath",
+        "Skill3": "Madness Crush",
+        "DS Skill1": "Repel Elec",
+        "DS Skill2": "Acid Breath",
+        "DS Skill3": "-",
         "Alignment": "Neutral"
     },
     {
@@ -4517,6 +4583,12 @@
         "Light": "no ",
         "Dark": "rs ",
         "tribe": "竜王",
+		"Skill1": "Acid Breath",
+        "Skill2": "Diarama",
+        "Skill3": "Posumudi",
+        "DS Skill1": "Mediarama",
+        "DS Skill2": "Fog Breath",
+        "DS Skill3": "-",
         "Alignment": "Neutral"
     },
     {
@@ -4623,6 +4695,12 @@
         "Light": "wk ",
         "Dark": "nu ",
         "tribe": "死神",
+		"Skill1": "Bufudyne",
+        "Skill2": "Mamudoon",
+        "Skill3": "Lullaby",
+        "DS Skill1": "Void Ice",
+        "DS Skill2": "Lullaby",
+        "DS Skill3": "Mamudoon",
         "Alignment": "Neutral"
     },
     {
@@ -4673,6 +4751,12 @@
         "Light": "rs ",
         "Dark": "nu ",
         "tribe": "死神",
+		"Skill1": "Mamudoon",
+        "Skill2": "Madness Nails",
+        "Skill3": "Fleeting Rain",
+        "DS Skill1": "Riot Gun",
+        "DS Skill2": "Gun Amp",
+        "DS Skill3": "Life Surge",
         "Alignment": "Neutral"
     },
     {
@@ -5260,7 +5344,8 @@
         "Skill3": "-",
         "DS Skill1": "Mudoon",
         "DS Skill2": "Diarama",
-        "DS Skill3": "Binding Cry"
+        "DS Skill3": "Binding Cry",
+		"Alignment": "Neutral"
     },
     {
         "Race": "Vermin",
@@ -5287,7 +5372,8 @@
         "Skill3": "Sukukaja",
         "DS Skill1": "Mamudoon",
         "DS Skill2": "Strandi",
-        "DS Skill3": "Sukukaja"
+        "DS Skill3": "Sukukaja",
+		"Alignment": "Neutral"
     },
     {
         "Race": "Vermin",
@@ -5314,7 +5400,8 @@
         "Skill3": "-",
         "DS Skill1": "Shooting Spree",
         "DS Skill2": "Mutudi",
-        "DS Skill3": "Life Bonus"
+        "DS Skill3": "Life Bonus",
+		"Alignment": "Neutral"
     },
     {
         "Race": "Vermin",
@@ -5341,7 +5428,8 @@
         "Skill3": "Needle Rush",
         "DS Skill1": "Patra",
         "DS Skill2": "Dia",
-        "DS Skill3": "-"
+        "DS Skill3": "-",
+		"Alignment": "Neutral"
     },
     {
         "Race": "Vermin",
@@ -5368,7 +5456,8 @@
         "Skill3": "-",
         "DS Skill1": "Posumudi",
         "DS Skill2": "Dia",
-        "DS Skill3": "-"
+        "DS Skill3": "-",
+		"Alignment": "Neutral"
     },
     {
         "Race": "Fury",
@@ -5446,6 +5535,12 @@
         "Light": "nu ",
         "Dark": "nu ",
         "tribe": "破壊神",
+		"Skill1": "Maragidyne",
+        "Skill2": "Drain Phys",
+        "Skill3": "Enduring Soul",
+        "DS Skill1": "Drain Phys",
+        "DS Skill2": "Maragidyne",
+        "DS Skill3": "Fire Amp",
         "Alignment": "Chaos"
     },
     {
@@ -5608,6 +5703,12 @@
         "Light": "nu ",
         "Dark": "nu ",
         "tribe": "地母神",
+		"Skill1": "Maragidyne",
+        "Skill2": "Fire Amp",
+        "Skill3": "-",
+        "DS Skill1": "Debilitate",
+        "DS Skill2": "Fire Amp",
+        "DS Skill3": "Drain Fire",
         "Alignment": "Chaos"
     },
     {
@@ -5658,6 +5759,12 @@
         "Light": "nu ",
         "Dark": "rs ",
         "tribe": "地母神",
+		"Skill1": "Garudyne",
+        "Skill2": "Wind Amp",
+        "Skill3": "-",
+        "DS Skill1": "Salvation",
+        "DS Skill2": "Wind Amp",
+        "DS Skill3": "Drain Wind",
         "Alignment": "Chaos"
     },
     {
@@ -6240,6 +6347,12 @@
         "Light": "nu ",
         "Dark": "nu ",
         "tribe": "堕天使",
+		"Skill1": "Hostile Terror",
+        "Skill2": "Mabufudyne",
+        "Skill3": "Megidola",
+        "DS Skill1": "Hostile Terror",
+        "DS Skill2": "Void Phys",
+        "DS Skill3": "Mana Surge",
         "Alignment": "Chaos"
     },
     {
@@ -6290,6 +6403,12 @@
         "Light": "rs ",
         "Dark": "nu ",
         "tribe": "堕天使",
+		"Skill1": "Acid Breath",
+        "Skill2": "Charge",
+        "Skill3": "Death Bite",
+        "DS Skill1": "Madness Crush",
+        "DS Skill2": "Staredown",
+        "DS Skill3": "Life Surge",
         "Alignment": "Chaos"
     },
     {
@@ -6788,6 +6907,12 @@
         "Light": "nu ",
         "Dark": "nu ",
         "tribe": "鬼女",
+		"Skill1": "Tyranny",
+        "Skill2": "Phys Amp",
+        "Skill3": "-",
+        "DS Skill1": "Occult Flash",
+        "DS Skill2": "Phys Amp",
+        "DS Skill3": "Repel Phys",
         "Alignment": "Chaos"
     },
     {
@@ -6810,6 +6935,12 @@
         "Light": "no ",
         "Dark": "nu ",
         "tribe": "鬼女",
+		"Skill1": "Tricky Dance",
+        "Skill2": "Grand Tack",
+        "Skill3": "Gun Amp",
+        "DS Skill1": "Tricky Dance",
+        "DS Skill2": "Gun Amp",
+        "DS Skill3": "Drain Gun",
         "Alignment": "Chaos"
     },
     {
@@ -7196,6 +7327,12 @@
         "Light": "wk ",
         "Dark": "nu ",
         "tribe": "夜魔",
+		"Skill1": "Mudoon",
+        "Skill2": "Makajama",
+        "Skill3": "Lethe`s Whisper",
+        "DS Skill1": "Tricky Dance",
+        "DS Skill2": "Dormina",
+        "DS Skill3": "-",
         "Alignment": "Chaos"
     },
     {
@@ -7330,6 +7467,12 @@
         "Light": "nu ",
         "Dark": "nu ",
         "tribe": "魔王",
+		"Skill1": "Jihad",
+        "Skill2": "Mamudoon",
+        "Skill3": "Victory Cry",
+        "DS Skill1": "Jihad",
+        "DS Skill2": "Drain Phys",
+        "DS Skill3": "Victory Cry",
         "Alignment": "Chaos"
     },
     {
@@ -7352,6 +7495,12 @@
         "Light": "nu ",
         "Dark": "nu ",
         "tribe": "魔王",
+		"Skill1": "Big Bang",
+        "Skill2": "Concentrate",
+        "Skill3": "-",
+        "DS Skill1": "Big Bang",
+        "DS Skill2": "Concentrate",
+        "DS Skill3": "Drain Gun",
         "Alignment": "Chaos"
     },
     {
@@ -7374,6 +7523,12 @@
         "Light": "nu ",
         "Dark": "nu ",
         "tribe": "魔王",
+		"Skill1": "Trisagion",
+        "Skill2": "Mamudoon",
+        "Skill3": "Occult Flash",
+        "DS Skill1": "Repel Phys",
+        "DS Skill2": "Trisagion",
+        "DS Skill3": "Occult Flash",
         "Alignment": "Chaos"
     },
     {
@@ -7424,6 +7579,12 @@
         "Light": "nu ",
         "Dark": "nu ",
         "tribe": "魔王",
+		"Skill1": "Makarakarn",
+        "Skill2": "Concentrate",
+        "Skill3": "Megido Flame",
+        "DS Skill1": "Trisagion",
+        "DS Skill2": "Charge",
+        "DS Skill3": "Concentrate",
         "Alignment": "Chaos"
     },
     {
@@ -7754,6 +7915,12 @@
         "Light": "no ",
         "Dark": "rs ",
         "tribe": "邪竜",
+		"Skill1": "Toxic Cloud",
+        "Skill2": "Grand Tack",
+        "Skill3": "Gun Amp",
+        "DS Skill1": "Grand Tack",
+        "DS Skill2": "Drain Gun",
+        "DS Skill3": "Gun Amp",
         "Alignment": "Chaos"
     },
     {
@@ -8112,6 +8279,12 @@
         "Light": "no ",
         "Dark": "no ",
         "tribe": "悪霊",
+		"Skill1": "Sukunda",
+        "Skill2": "Feral Claw",
+        "Skill3": "-",
+        "DS Skill1": "Sukunda",
+        "DS Skill2": "Garu",
+        "DS Skill3": "-",
         "Alignment": "Chaos"
     },
     {
@@ -8162,6 +8335,12 @@
         "Light": "no ",
         "Dark": "no ",
         "tribe": "外道",
+		"Skill1": "Energy Drain",
+        "Skill2": "Tetrakarn",
+        "Skill3": "-",
+        "DS Skill1": "Tetraja",
+        "DS Skill2": "Void Nerve",
+        "DS Skill3": "-",
         "Alignment": "Chaos"
     },
     {
